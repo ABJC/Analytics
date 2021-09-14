@@ -5,8 +5,8 @@
 //  Created by Noah Kamara on 10.09.21.
 //
 
-import Foundation
 import AnyCodable
+import Foundation
 
 public protocol AnalyticsEvent {
     typealias AnalyticsData = AnyEncodable

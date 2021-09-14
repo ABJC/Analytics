@@ -1,5 +1,5 @@
-import XCTest
 @testable import ABJCAnalytics
+import XCTest
 
 final class ABJCAnalyticsTests: XCTestCase {
     func testExample() throws {
